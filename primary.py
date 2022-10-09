@@ -6,10 +6,11 @@ while True:
   
   str_i = input("i=?")
   if not str_i:
-    print("数字いれろや")
+    print("数字いれろや!")
     
   else:
     
+
     i = int(str_i)
 
     #fizz buzz ゲームもどき
